@@ -25,7 +25,7 @@ func (a *App) Start(context context.Context) error { 	//	receiver, or method tha
 
 	server := &http.Server{	//	server is a pointer var to a http server
 		Addr: ":3000",
-		Handler: a.router	//	this.router for the App object
+		Handler: a.router,	//	this.router for the App object
 	}
 
 	err := server.ListenAndServe()	//start server
