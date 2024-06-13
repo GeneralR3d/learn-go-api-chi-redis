@@ -11,7 +11,7 @@ func main(){
 	app := application.New()	// instantiate
 
 	err := app.Start(context.TODO())
-	if err != nil [
+	if err != nil {
 		fmt.Errorf("Failed to start app: %w",err)
-	]
+	}
 }
