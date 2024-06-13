@@ -1,4 +1,4 @@
-module github.com/GeneralR3d/learn-go-api-chi-redis
+module github.com/generalr3d/learn-go-api-chi-redis.git
 
 go 1.22.4
 
