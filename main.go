@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-	"net/http"
-
-	"github.com/GeneralR3d/learn-go-api-chi-redis/application"	//	importing our own package in our own directory
+	"context"
+	"github.com/generalr3d/learn-go-api-chi-redis/application"	//	importing our own package in our own directory
 )
 
 func main(){

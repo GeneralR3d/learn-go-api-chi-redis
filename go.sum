@@ -1,4 +1,2 @@
-github.com/GeneralR3d/learn-go-api-chi-redis v0.0.0-20240613071233-3b779d9562ee h1:Ns6hOAEFmympc0Nmc6Op2VRi5nLadBSwJKWXanoehjk=
-github.com/GeneralR3d/learn-go-api-chi-redis v0.0.0-20240613071233-3b779d9562ee/go.mod h1:8MGm7cXozwAqQzXru2Oipy6QFvGLT9DaSPJIaU8A+EM=
 github.com/go-chi/chi/v5 v5.0.12 h1:9euLV5sTrTNTRUU9POmDUvfxyj6LAABLUcEWO+JJb4s=
 github.com/go-chi/chi/v5 v5.0.12/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
